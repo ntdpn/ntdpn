@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ntdpn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![“If this story can really save you... If you regained just a little of your memories and remember us just one more time... Then I'll keep writing the epilogue for you until the end of time, for eternity. - Han Sooyoung”](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ntdpn&limit=5&theme=dark&combine_all_yearly_contributions=true)
