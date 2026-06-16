@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on — personal frontend projects and improving my skills<br>👥 I'm looking to collaborate on — frontend development projects, UI/UX experiments, or open source web apps<br>💛 I'm looking for help with — advanced JavaScript, React best practices, and CSS animations<br>🌱 I'm currently learning — React, modern CSS, and frontend tooling<br>💬 Ask me about — Frontend Development, UI design, and web technologies<br>⚡ Fun fact — I'm an INTJ — I probably already planned this conversation before it happened 😄
+# About Me:
+ I'm currently working on — personal frontend projects and improving my skills<br> I'm looking to collaborate on — frontend development projects, UI/UX experiments, or open source web apps<br> I'm looking for help with — advanced JavaScript, React best practices, and CSS animations<br>🌱 I'm currently learning — React, modern CSS, and frontend tooling<br> Ask me about — Frontend Development, UI design, and web technologies
 
 
 ## 🌐 Socials:
